@@ -1,2 +1,2 @@
-# Profile
-web-presence. HTML/CSS, a responsive webpage using Flexbox, Google fonts and Font-awesome icons
+# ChatBot
+A bot that makes use of Google search API to search anything on Google directly from WhatsApp.
